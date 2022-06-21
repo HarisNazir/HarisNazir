@@ -1,4 +1,4 @@
-Hi 👋 My name is Haris Nazir
+Hi 👋 My name is Haris
 ============================
 
 Software Engineer
