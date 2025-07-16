@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Haris</h1>
-<h3 align="center">Software Engineer @ Just Eat Takeaway.com</h3>
+<h3 align="center">Data / ML @ Just Eat Takeaway.com</h3>
 
 - 🔭 I’m currently working on **a bunch of small projects**
 
